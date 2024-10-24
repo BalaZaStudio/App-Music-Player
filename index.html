@@ -1,0 +1,57 @@
+<html>
+
+<head>
+  <title>ZaBaDEV Player - Music Visualizer</title>
+  <link rel="stylesheet" href="styles.css" class="src">
+</head>
+
+<body>
+  <div class="logo">
+    <span>ZaBa</span><span class="dev">DEV</span>
+  </div>
+
+  <div class="player-container">
+    <div class="visualizer-container">
+      <canvas id="visualizer"></canvas>
+    </div>
+
+    <div class="viz-selector">
+      <button class="viz-btn active" data-viz="bars">Bars</button>
+      <button class="viz-btn" data-viz="circles">Circles</button>
+      <button class="viz-btn" data-viz="wave">Wave</button>
+      <button class="viz-btn" data-viz="particles">Particles</button>
+      <button class="viz-btn" data-viz="spectrum">Spectrum</button>
+      <button class="viz-btn" data-viz="letters">ZaBaDeV</button>
+
+    </div>
+
+    <div class="song-info">
+      <h2 id="song-title">No song playing</h2>
+      <p id="artist">Select a song to begin</p>
+    </div>
+
+    <div class="progress-bar" id="progress-bar">
+      <div class="progress" id="progress"></div>
+    </div>
+    <div class="time-info">
+      <span id="current-time">00:00</span> / <span id="duration-time">00:00</span>
+    </div>
+    
+
+    <div class="controls">
+      <button class="control-btn" id="prev">◄◄</button>
+      <button class="control-btn" id="play">►</button>
+      <button class="control-btn" id="next">►►</button>
+      <div class="volume-control">
+        <i>🔊</i>
+        <input type="range" id="volume" min="0" max="100" value="50">
+      </div>
+      <button class="control-btn" id="file-input-btn">Open File</button>
+      <button class="control-btn" id="fullscreen">🗖</button>
+    </div>
+  </div>
+
+  <script src="./scripts.js"></script>
+</body>
+
+</html>
