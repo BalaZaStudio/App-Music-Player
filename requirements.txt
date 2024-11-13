@@ -1,2 +1,3 @@
 sphinx
 sphinx_rtd_theme
+myst-parser  # Si deseas usar archivos Markdown (.md) en lugar de archivos .rst
