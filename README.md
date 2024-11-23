@@ -25,4 +25,4 @@ Un reproductor de música básico y funcional desarrollado con **HTML**, **CSS**
 
 1. Clona este repositorio en tu máquina local:
    ```bash
-   git clone https://github.com/tuusuario/reproductor-musica.git
+   git clone https://github.com/BalaZaStudio/App-Music-Player.git
