@@ -19,7 +19,7 @@ Un reproductor de música básico y funcional desarrollado con **HTML**, **CSS**
 
 ## 📸 Vista Previa
 
-![Vista previa del reproductor](ruta/a/tu/imagen.jpg)
+![Vista previa del reproductor](My-Media-Resources/ScreenPlayerMusic.png)
 
 ## ⚙️ Instalación
 
