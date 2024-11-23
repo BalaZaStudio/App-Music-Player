@@ -19,12 +19,7 @@ Un reproductor de música básico y funcional desarrollado con **HTML**, **CSS**
 
 ## 📸 Vista Previa
 
-<div align="center">
-    <img 
-        src="https://raw.githubusercontent.com/BalaZaStudio/My-Media-Resources/67591d308c7068eccbe5b6804dd9a6de66ad0af8/ScreenPlayerMusic.png" 
-        alt="Vista previa del reproductor"
-        style="border-radius: 20px; box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1); animation: glow 1.5s infinite alternate;">
-</div>
+![Descripción de la imagen](https://github.com/BalaZaStudio/Image-ScreenShot/raw/main/image-1.png)
 
 ## ⚙️ Instalación
 
